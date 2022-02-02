@@ -3,7 +3,7 @@
 ------------------------------
 
 > - This online pet store UI was made using the react.js styled-components library
-> - Why use the styled-components library?
+> - **Why use the styled-components library?**
 >   - In case of large web applications, where we have multiple CSS files, the syntax begins to get clumsy and complex.
 >   - Instead of using classes like we do in **CSS**, styled-components make use of components to define their own styles which can be reused easily across the etire project.
 >   - They also use props for controlling the behavior of a component.
