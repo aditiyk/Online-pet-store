@@ -11,7 +11,15 @@
 >  Also by using styled-components keeping consistency accross various platforms becomes very easy since it gives *React native mobile support*.
 
 
+---------------------------------
 
+> I learned the following while making this project:-
+> + How to use and reuse react styled components.
+> + How to use material ui in react.
+> + How to use media queries in react styled components.
+
+> To further expand the project I want to create an **ecommerce rest api** using Node.js, Express.js and MongoDb and also implement stripe payment method.
+  
 # Mobile Version
 https://user-images.githubusercontent.com/85080181/142719081-45aebed9-f74c-4f07-84d2-e78b9803108f.mp4
 
