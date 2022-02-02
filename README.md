@@ -12,6 +12,12 @@
 
 
 
-
+# Mobile Version
 https://user-images.githubusercontent.com/85080181/142719081-45aebed9-f74c-4f07-84d2-e78b9803108f.mp4
+
+--------------
+
+# Desktop Version
+
+https://user-images.githubusercontent.com/85080181/152208812-17b8cc40-a870-42f4-aa2c-1f55e6400f30.mp4
 
