@@ -1,6 +1,6 @@
 # Online pet store
  
-------------------------------
+
 
 > - This online pet store UI was made using the react.js styled-components library
 > - **Why use the styled-components library?**
@@ -11,7 +11,7 @@
 >  Also by using styled-components keeping consistency accross various platforms becomes very easy since it gives *React native mobile support*.
 
 
----------------------------------
+
 
 > I learned the following while making this project:-
 > + How to use and reuse react styled components.
